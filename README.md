@@ -1,6 +1,6 @@
 # Deploy on Netlify
 
-(https://today-i-learned-223382.netlify.app/)
+https://today-i-learned-223382.netlify.app/
 
 # Getting Started with Create React App
 
